@@ -1,6 +1,6 @@
 # PyBioStats
 
-**PyBioStats** is a Python-based program designed for biostatistical analysis. This software provides tools and functions for performing common statistical analyses on biological data. It is aimed at researchers, scientists, and students working with biological datasets and looking for efficient ways to perform statistical computations.
+**PyBioStats** is a Python-based program designed for biostatistical analysis. This software intend to provide tools and functions for performing common statistical analyses on biological data for researchers, scientists, and students working with biological datasets and looking for efficient ways to perform statistical computations.
 
 ## Features
 
